@@ -68,6 +68,9 @@ The MCA Cricket Tournaments Website is a dynamic platform that facilitates the o
 
    ```bash
    git clone https://github.com/Ni1esh-Yadav/Cricket_UII/tree/main
+
+  ## Start Frontend Server
+  
    cd ref-object-clump
    ```
 
@@ -87,8 +90,11 @@ The MCA Cricket Tournaments Website is a dynamic platform that facilitates the o
 
    The application will run at `http://localhost:5127`.
 
-   ## cd..
-   ##cd server
+   ## Backend Server
+   
+   cd..
+   
+   cd server
    
    1. **Install Dependencies**
 
