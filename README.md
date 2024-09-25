@@ -74,7 +74,7 @@ The MCA Cricket Tournaments Website is a dynamic platform that facilitates the o
    cd ref-object-clump
    ```
 
-2. **Install Dependencies**
+2. Install Dependencies
 
    Ensure you have [Node.js](https://nodejs.org/) installed. Then, install the necessary packages:
 
