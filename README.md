@@ -67,8 +67,8 @@ The MCA Cricket Tournaments Website is a dynamic platform that facilitates the o
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Ni1esh-Yadav/MCA-Tournament/
-   cd mca-cricket-tournaments
+   git clone https://github.com/Ni1esh-Yadav/Cricket_UII/tree/main
+   cd ref-object-clump
    ```
 
 2. **Install Dependencies**
@@ -82,10 +82,29 @@ The MCA Cricket Tournaments Website is a dynamic platform that facilitates the o
 3. **Start the Development Server**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-   The application will run at `http://localhost:3000`.
+   The application will run at `http://localhost:5127`.
+
+   ## cd..
+   ##cd server
+   
+   1. **Install Dependencies**
+
+   Ensure you have [Node.js](https://nodejs.org/) installed. Then, install the necessary packages:
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the Development Server**
+
+   ```bash
+   node app.js
+   ```
+
+   The application will run at `http://localhost:5000`
 
 ## Usage
 
